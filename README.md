@@ -1,6 +1,6 @@
 Here is the revised RMarkdown content without the MIT license:
 
-```markdown
+
 ---
 title: "3D Multi-Modal U-Net for Advanced Brain Tumor Segmentation and Analysis"
 output: github_document
