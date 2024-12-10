@@ -1,7 +1,7 @@
 
 
 #  Brain Tumor Segmentation and Analysis
-output: github_document
+
 
 # Introduction
 This project focuses on brain tumor segmentation using a 2D U-Net architecture tailored for multi-class segmentation of brain tumors. Leveraging MRI data from the BraTS2020 dataset, the model identifies and delineates key tumor regions, including necrosis, edema, and enhancing tumor areas. This work emphasizes computational efficiency, segmentation accuracy, and robust preprocessing techniques.
