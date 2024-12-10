@@ -1,6 +1,6 @@
 
 
-#  Brain Tumor Segmentation and Analysis"
+#  Brain Tumor Segmentation and Analysis
 output: github_document
 
 # Introduction
