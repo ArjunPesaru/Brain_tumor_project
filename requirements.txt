@@ -6,4 +6,3 @@ opencv-python==4.7.0.68
 tensorflow==2.8.4
 keras==2.8.0
 kaggle==1.5.13
-pandas==1.4.2
